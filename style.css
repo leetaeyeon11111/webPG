@@ -7,11 +7,11 @@
 body {
   font-size: 16px;
   line-height: 1.5;
-  color: red;
-  background: blue;
+  color: black;
+  background: linen;
 }
 
-ui {
+ul {
   list-style-type: none;
 }
 
@@ -26,6 +26,7 @@ ui {
   color: white;
   height: 60px;
 }
+
 .navbar .container {
   display: flex;
   flex-direction: row;
@@ -61,6 +62,6 @@ ui {
 }
 
 .main {
-  color: rgb(54, 54, 70);
-  line-height: rgb(33, 33, 108);
+  color: rgb(6, 6, 23);
+  line-height: 2.5;
 }
